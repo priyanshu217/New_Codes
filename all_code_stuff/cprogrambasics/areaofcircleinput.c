@@ -12,3 +12,5 @@ int main(){
    // NEw to 
    
 }
+
+// Here are few rules please dont be panic
