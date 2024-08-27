@@ -1,1 +1,2 @@
 When we create new git know nothing then you initialize the git , after when git get the permissions then he know your file `
+why why?????????????
